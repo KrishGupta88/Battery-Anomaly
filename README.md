@@ -63,7 +63,6 @@ Setup
 Clone the repository
 
 bashgit clone https://github.com/yourusername/battery-anomaly-detection.git
-cd battery-anomaly-detection
 
 Create virtual environment
 
